@@ -11,6 +11,12 @@ download [android ndk](https://developer.android.com/tools/sdk/ndk/index.html#do
 define ndk path in your environment.
 
 build it:
+
+1st time - initialize 
+sudo chmod a+x git-pup
+./git-pup
+
+
 ```
 cd path/to/jsoncpp-ndk-build
 ndk-build
